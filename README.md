@@ -1,9 +1,7 @@
 # data_release_001
-Taxonomic occurrences of the SSU and LSU marker genes from the 2nd EMO BON sequencing batch, plus sampling event metadata and functional gene abundances
 
 
-These are the 1st set of data files to be submitted to (Eur)OBIS: taxonomic occurrences the SSU and LSU marker genes (combined), sampling event metadata, and functional gene abundances for the events of EMO BON's 1st sequencing batch. This includes:
-The individual files that when combined, create the DwCA files that we will submit: 
+These are the 1st set of data files to be submitted to (Eur)OBIS: taxonomic occurrences the SSU and LSU marker genes (combined), sampling event metadata, and functional gene abundances for the events of EMO BON's 1st sequencing batch. This includes the individual files that when combined, create the DwCA files that we will submit: 
 
 -- a file of occurrences (taxonomy and event data), 
 
