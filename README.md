@@ -12,6 +12,6 @@ These are the 1st set of data files to be submitted to (Eur)OBIS: taxonomic occu
 
 The source files for the omics and taxonomic data can be found in the [analysis_release_001](https://github.com/emo-bon/analysis-results-cluster-01-crate) repository.
 
-The code (and a step-by-step guide) that was used to reforumlate the metaGOflow outputs can be found in [code_release_002](https://github.com/emo-bon/code_release_001).
+The code (and a step-by-step guide) that was used to reforumlate the metaGOflow outputs can be found in [code_release_001](https://github.com/emo-bon/code_release_001).
 
 The samples that are included in this batch can be found [here](https://github.com/emo-bon/sequencing-logistics-crate/blob/main/shipment/batch-001/ena-accession-numbers-batch-001.csv).
